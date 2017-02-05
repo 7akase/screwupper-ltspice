@@ -13,7 +13,7 @@ LINE Normal 28 -16 12 -16
 LINE Normal 28 16 28 -16
 RECTANGLE Normal 48 32 -48 -32
 WINDOW 39 0 48 Center 2
-SYMATTR SpiceLine fclk=1
+SYMATTR SpiceLine fclk=1 alpha=0 beta=0.5
 PIN 64 0 NONE 8
 PINATTR PinName out
 PINATTR SpiceOrder 1
